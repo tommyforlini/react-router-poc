@@ -1,3 +1,10 @@
+# react-router-poc
+
+A simple demo which displays how nested Routing works. 
+Key components for routing are in `App.js` and `Home.js`
+
+## React Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
